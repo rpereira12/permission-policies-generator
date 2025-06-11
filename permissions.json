@@ -1,0 +1,4 @@
+{
+  "Property": ["property:read", "property:create", "property:update"],
+  "Contract": ["contract:read", "contract:create"]
+}
